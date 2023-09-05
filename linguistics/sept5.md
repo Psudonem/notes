@@ -23,11 +23,11 @@ What Is Linguistis?
 What do you knwo when you know a langyage?
 - phonetics
 - phonology
-- morephology
+- morphology
 - semtantics
 - syntax
-- pragmatics
-- sociolinguiistics
+- pragmatics: non literal uses of language
+- sociolinguistics: how social factors govern how we use language and perceive the lanugae of others. social groups, identity, and how language changes
 - 
 
 

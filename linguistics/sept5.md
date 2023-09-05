@@ -23,15 +23,18 @@ What Is Linguistis?
 What do you knwo when you know a langyage?
 - phonetics: how do you produce and recognize the sounds of your language
 - phonology: how do the sounds work together as a system? how it sounds vs what the spelling is
-- morphology: 
-- semtantics
-- syntax
-- pragmatics: non literal uses of language
+- morphology: how words are defined in smaller parts, and these rules
+- semtantics: how a sentance meaning is constructed
+- syntax: Rules of grammatical well formeedness
+- pragmatics: non literal uses of language, how to use appropreately in context
 - sociolinguistics: how social factors govern how we use language and perceive the lanugae of others. social groups, identity, and how language changes
 
 
 Generative linguistics (Chomsky): We are all born with a **language aquizition device**. A machine that allows us to aquire language and learn easily.
 
+Register: How formal your language is
+
+Code Switching: Switching the language for a certain context?
 
 Homework
 - [ ] FOR THURSDAY: read chapter 1 in textbook

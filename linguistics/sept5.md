@@ -26,7 +26,7 @@ What do you knwo when you know a langyage?
 - morphology: how words are defined in smaller parts, and these rules
 - semtantics: how a sentance meaning is constructed
 - syntax: Rules of grammatical well formeedness
-- pragmatics: non literal uses of language, how to use appropreately in context
+- pragmatics: non literal uses of language, how to use appropreately in context. 
 - sociolinguistics: how social factors govern how we use language and perceive the lanugae of others. social groups, identity, and how language changes
 
 
@@ -36,7 +36,7 @@ Register: How formal your language is
 
 Code Switching: Changing from one language to another in the same sentence.
 
-
+we will aslo dsicuss how children use languag
 Homework
 - [ ] FOR THURSDAY: read chapter 1 in textbook
 - [ ] FOR NEXT WEEK: Read Chapter 2

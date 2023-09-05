@@ -15,6 +15,21 @@ What will we do in this class? what to remember
 - watch and comment on videos classmates make
 - conduct interview in language other than english… contact selsabil? if not who? uhhh
 
+What Is Linguistis?
+- linguists attempt to describe what spakers of a language know about that language
+- **not** teaching what people what to say and how to say itt
+- language continuously evolves like an organism!
+
+What do you knwo when you know a langyage?
+- phonetics
+- phonology
+- morephology
+- semtantics
+- syntax
+- pragmatics
+- sociolinguiistics
+- 
+
 
 
 Homework

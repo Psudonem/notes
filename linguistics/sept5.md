@@ -30,13 +30,16 @@ What do you knwo when you know a langyage?
 - sociolinguistics: how social factors govern how we use language and perceive the lanugae of others. social groups, identity, and how language changes
 
 
-Generative linguistics (Chomsky): We are all born with a **language aquizition device**. A machine that allows us to aquire language and learn easily.
+Generative linguistics (Chomsky): We are all born with a **language aquizition device**. A machine that allows us to aquire language and learn easily. Poverty of the stimulus: we don't hear enough language to be good enough with it.
 
 Register: How formal your language is
 
 Code Switching: Changing from one language to another in the same sentence.
 
 we will aslo dsicuss how children use languag
+
+
+
 Homework
 - [ ] FOR THURSDAY: read chapter 1 in textbook
 - [ ] FOR NEXT WEEK: Read Chapter 2

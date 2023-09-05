@@ -21,8 +21,8 @@ What Is Linguistis?
 - language continuously evolves like an organism!
 
 What do you knwo when you know a langyage?
-- phonetics
-- phonology
+- phonetics: how do you produce and recognize the sounds of your language
+- phonology: 
 - morphology
 - semtantics
 - syntax
@@ -30,6 +30,7 @@ What do you knwo when you know a langyage?
 - sociolinguistics: how social factors govern how we use language and perceive the lanugae of others. social groups, identity, and how language changes
 - 
 
+Generative linguistics (Chomsky): We are all born with a *language aquizition device*. A machine that allows us to aquire language and learn easily.
 
 
 Homework

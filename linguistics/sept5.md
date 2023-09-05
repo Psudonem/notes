@@ -34,7 +34,8 @@ Generative linguistics (Chomsky): We are all born with a **language aquizition d
 
 Register: How formal your language is
 
-Code Switching: Switching the language for a certain context?
+Code Switching: Changing from one language to another in the same sentence.
+
 
 Homework
 - [ ] FOR THURSDAY: read chapter 1 in textbook

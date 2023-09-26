@@ -9,3 +9,6 @@ Phoneme: Sound that produces a meaning of a word
             - Example in english: **B**an and **V**an
 
 most languages are tonal
+
+
+I missed a lot of stuff, reread the text book

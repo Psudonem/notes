@@ -11,13 +11,13 @@ Allophone: Variant on the same sound
 
 most languages are tonal
 
-
 I missed a lot of stuff, reread the text book
-
 
 Complementray DIstrubution
     - Wether the appearance of one means that the other does not appear
 
-
-
+sound contrasts in lang are either
+    - phonemic contrasts
+    - systematic alternation
+    - free alternation
 
